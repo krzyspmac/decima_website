@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Decima</title>
+    <link>https://krzysp.net/decima/docs/</link>
+    <description>Recent content in Docs on Decima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate><atom:link href="https://krzysp.net/decima/docs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

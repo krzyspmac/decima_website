@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Decima</title>
+    <link>https://krzysp.net/decima/docs/info/</link>
+    <description>Recent content in Introduction on Decima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate><atom:link href="https://krzysp.net/decima/docs/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AppStore Privacy</title>
+      <link>https://krzysp.net/decima/docs/info/privacy/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://krzysp.net/decima/docs/info/privacy/</guid>
+      <description>AppStore Privacy. For your and mine sake.</description>
+    </item>
+    
+    <item>
+      <title>Changelog</title>
+      <link>https://krzysp.net/decima/docs/info/changelog/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://krzysp.net/decima/docs/info/changelog/</guid>
+      <description>Changelog. For your and mine sake.</description>
+    </item>
+    
+  </channel>
+</rss>

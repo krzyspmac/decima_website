@@ -1,0 +1,3 @@
+[submodule "decima/themes/hugo-bo"]
+	path = decima/themes/hugo-bo
+	url = https://github.com/alex-shpak/hugo-book

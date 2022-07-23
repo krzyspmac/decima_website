@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Decima</title>
+    <link>https://krzysp.net/decima/posts/</link>
+    <description>Recent content in Posts on Decima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jul 2022 13:29:47 +0200</lastBuildDate><atom:link href="https://krzysp.net/decima/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Version 1.7 Woes</title>
+      <link>https://krzysp.net/decima/posts/post-2022-07-23/</link>
+      <pubDate>Sat, 23 Jul 2022 13:29:47 +0200</pubDate>
+      
+      <guid>https://krzysp.net/decima/posts/post-2022-07-23/</guid>
+      <description>So&amp;hellip; moving from UIKit to SwiftUI proved to be a real bummer :) There have been no updates for the app and I can only blame the sun and the universe for my own short-comings ;)
+But the application is not dead and 1.7 will see the light of day sometime before September.
+New stuff will include:
+a redesigned UI that includes a &amp;ldquo;browser list&amp;rdquo; some of the views redone in SwiftUI (there&amp;rsquo;s no going back&amp;hellip;) a bunch of internal changes that will allow me to include new features that have been waiting in the queue for too long a time </description>
+    </item>
+    
+  </channel>
+</rss>

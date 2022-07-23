@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/decima/sw.js",{scope:"/"})
