@@ -13,14 +13,16 @@ This page is to inform potential visitors regarding the policies on the collecti
 
 ## Information on ads/data collection
 
-*The application* does not collect user activities besides what is vitally needed
-for the basic functionality. Such data though is stored locally and shared between
-*Decima* and the counterpart *Apple Watch App* (synchronisation).
+No user data (including timer name, timer entries, entry durations, statistics) is never sent anywhere but the
+counterpart WatchApp (if the user has that paired with the phone) and using only system-provided tools.
 
-*The application* does not use any software for analytics besides what is currently
-provided by the OS.
+*The application* does not use the user's location (besides what Firebase does, see below).
 
-*The application* does not not present any ads and has no integration with any social media sites.
+*The application* does not not present any ads nor has any integration with any social media sites.
+
+*The application* uses Firebase to collect general application usage statistics and performance such as time spent on a screen
+or how much CPU power was spent on a particular functionality. User-crash-reports are also being sent to
+and stored in Firebase.
 
 ## Storage
 
@@ -28,13 +30,11 @@ provided by the OS.
 
 ## Service Providers
 
-*The application* does not have a network component and as such does not use any service providers.
+*The application* uses Firebase for crash reporting and usage statistics.
 
 ## In-app-purchases
 
-*The application* offers in-app purchases to unlock certain functionalities. In the process no user data
-is being collected. Quality of service is being solely provided by the operating system/AppStore.
-No external network component is being utilised.
+*The application* does not offer in-app purchases. The application is free.
 
 ## Guarantee
 

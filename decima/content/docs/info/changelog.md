@@ -8,6 +8,12 @@ summary: Changelog. For your and mine sake.
 
 # Change log
 
+## 1.8 Alberta (-- Jan, 2023)
+- Basic Graphs
+
+## 1.7 Evelyn (Aug 10, 2022)
+- General fixes
+
 ## 1.6 Evelyn (Apr 1, 2021)
 
 - Added Siri Shortcuts App integration. Timers can now be controlled directly

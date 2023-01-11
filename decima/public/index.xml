@@ -6,7 +6,7 @@
     <description>Recent content in Introduction on Decima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jul 2022 13:29:47 +0200</lastBuildDate><atom:link href="https://krzysp.net/decima/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 05:30:47 +0100</lastBuildDate><atom:link href="https://krzysp.net/decima/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AppStore Privacy</title>
       <link>https://krzysp.net/decima/docs/info/privacy/</link>
@@ -23,6 +23,15 @@
       
       <guid>https://krzysp.net/decima/docs/info/changelog/</guid>
       <description>Changelog. For your and mine sake.</description>
+    </item>
+    
+    <item>
+      <title>Version 1.8 Work</title>
+      <link>https://krzysp.net/decima/posts/post-2023-01-11/</link>
+      <pubDate>Wed, 11 Jan 2023 05:30:47 +0100</pubDate>
+      
+      <guid>https://krzysp.net/decima/posts/post-2023-01-11/</guid>
+      <description>The move to SwiftUI, after initial harship, is probably done. SwiftUI Charts have been added to the application and soon will their way to the release branch.</description>
     </item>
     
     <item>

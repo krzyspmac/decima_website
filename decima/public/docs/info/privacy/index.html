@@ -17,7 +17,7 @@
 <link rel="icon" href="/decima/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/decima/book.min.82c5dbd23447cee0b4c2aa3ed08ce0961faa40e1fa370eee4f8c9f02e0d46b5f.css" integrity="sha256-gsXb0jRHzuC0wqo&#43;0Izglh&#43;qQOH6Nw7uT4yfAuDUa18=" crossorigin="anonymous">
   <script defer src="/decima/flexsearch.min.js"></script>
-  <script defer src="/decima/en.search.min.719a5f469396600ebdc2afbf28f6ec27b59d783932f5eea4cae0b4bd273c367d.js" integrity="sha256-cZpfRpOWYA69wq&#43;/KPbsJ7WdeDky9e6kyuC0vSc8Nn0=" crossorigin="anonymous"></script>
+  <script defer src="/decima/en.search.min.2802600689ccc82a7a190808bee8d450771f7e8fc4bff08777831457d7e01858.js" integrity="sha256-KAJgBonMyCp6GQgIvujUUHcffo/Ev/CHd4MUV9fgGFg=" crossorigin="anonymous"></script>
 
   <script defer src="/decima/sw.min.853455714460888d7ad3d75fc01940dc18627e58666eb6bc3a4030d2b1ce8c04.js" integrity="sha256-hTRVcURgiI1609dfwBlA3Bhiflhmbra8OkAw0rHOjAQ=" crossorigin="anonymous"></script>
 <!--
@@ -153,12 +153,13 @@ should anyone decide to use Decima aka <em>the application</em>.</p>
   Information on ads/data collection
   <a class="anchor" href="#information-on-adsdata-collection">#</a>
 </h2>
-<p><em>The application</em> does not collect user activities besides what is vitally needed
-for the basic functionality. Such data though is stored locally and shared between
-<em>Decima</em> and the counterpart <em>Apple Watch App</em> (synchronisation).</p>
-<p><em>The application</em> does not use any software for analytics besides what is currently
-provided by the OS.</p>
-<p><em>The application</em> does not not present any ads and has no integration with any social media sites.</p>
+<p>No user data (including timer name, timer entries, entry durations, statistics) is never sent anywhere but the
+counterpart WatchApp (if the user has that paired with the phone) and using only system-provided tools.</p>
+<p><em>The application</em> does not use the user&rsquo;s location (besides what Firebase does, see below).</p>
+<p><em>The application</em> does not not present any ads nor has any integration with any social media sites.</p>
+<p><em>The application</em> uses Firebase to collect general application usage statistics and performance such as time spent on a screen
+or how much CPU power was spent on a particular functionality. User-crash-reports are also being sent to
+and stored in Firebase.</p>
 <h2 id="storage">
   Storage
   <a class="anchor" href="#storage">#</a>
@@ -168,14 +169,12 @@ provided by the OS.</p>
   Service Providers
   <a class="anchor" href="#service-providers">#</a>
 </h2>
-<p><em>The application</em> does not have a network component and as such does not use any service providers.</p>
+<p><em>The application</em> uses Firebase for crash reporting and usage statistics.</p>
 <h2 id="in-app-purchases">
   In-app-purchases
   <a class="anchor" href="#in-app-purchases">#</a>
 </h2>
-<p><em>The application</em> offers in-app purchases to unlock certain functionalities. In the process no user data
-is being collected. Quality of service is being solely provided by the operating system/AppStore.
-No external network component is being utilised.</p>
+<p><em>The application</em> does not offer in-app purchases. The application is free.</p>
 <h2 id="guarantee">
   Guarantee
   <a class="anchor" href="#guarantee">#</a>
