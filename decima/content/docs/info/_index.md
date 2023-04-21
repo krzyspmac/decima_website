@@ -36,13 +36,9 @@ limits you may put on a specific activity.
 
 ## Feature list
 
-**Free-to-use features:**
-
 - Create, start, stop and inspect individual timers and its entries
 - Set *Alerts* so that you can inform yourself when time for a particular task is up
 - Synchronisation with the companion Apple Watch App
-
-**Paid features:**
-
-- Modify individual timer entries (paid feature); modification updates the timer on both: 
+- Modify individual timer entries; modification updates the timer on both: 
 the iPhone and the Apple Watch
+- Shortcuts app integration
