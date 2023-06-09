@@ -3,12 +3,15 @@ title: 'Changelog'
 date: 2019-02-11T19:30:08+10:00
 draft: false
 weight: 1
-summary: Changelog. For your and mine sake.
+summary: Changelog. For yours and mine's sake.
 ---
 
 # Change log
 
-## 1.8 Alberta (-- Jan, 2023)
+## 1.9 Sigfrid (Jun, 2023)
+- Timer entries can be added by hand
+
+## 1.8 Alberta (Feb 14, 2023)
 - Basic Graphs
 
 ## 1.7 Evelyn (Aug 10, 2022)
